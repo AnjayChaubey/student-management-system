@@ -123,4 +123,4 @@ docs/                          report, screenshots, video script and demo record
 | Prit Patel | AP24110011578 |
 | Anjay Chaubey| AP24110010240 |
 | Vivekanand Yadav | AP24110011109 |
-| Arindam | AP24110010048 |
+| Arindam Gupta| AP24110010048 |
