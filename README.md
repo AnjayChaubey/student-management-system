@@ -2,7 +2,17 @@
 
 **CSE 309 – Advanced Java Programming • Course Project • SRM University AP**
 
-🔗 **GitHub repository:** https://github.com/prit12075/student-management-system
+## Project Resources
+
+### 1. Project Demonstration Video
+Watch the complete working demonstration of the Student Management System:
+
+[Watch Project Demo Video](https://drive.google.com/file/d/1SXdcVAh-7IfNUiKAmLfM2oxO9xA1yQVD/view?usp=sharing)
+
+### 2. Project Report
+Read or download the complete project report:
+
+[View Project Report](https://drive.google.com/file/d/1bOSla3fIJ5vKWuu6AKaRQS9wvzVdzXyf/view?usp=sharing)
 
 This is a full-stack University ERP built with **Java 21 and Spring Boot 3.3**. Each topic of the Advanced Java syllabus (Units 1–5) is used as a real feature of the product:
 
@@ -105,18 +115,6 @@ src/main/resources/templates   Thymeleaf pages for the three portals and the Jav
 src/test/java                  CoreModulesTest (20 tests) + StudentManagementSystemTests
 docs/                          report, screenshots, video script and demo recording
 ```
-
-## Project Resources
-
-### 1. Project Demonstration Video
-Watch the complete working demonstration of the Student Management System:
-
-[Watch Project Demo Video](https://drive.google.com/file/d/1SXdcVAh-7IfNUiKAmLfM2oxO9xA1yQVD/view?usp=sharing)
-
-### 2. Project Report
-Read or download the complete project report:
-
-[View Project Report](https://drive.google.com/file/d/1bOSla3fIJ5vKWuu6AKaRQS9wvzVdzXyf/view?usp=sharing)
 
 ## Team
 
